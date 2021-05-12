@@ -8,4 +8,4 @@
 
 その場合は、このメールは破棄していただいて結構です。
 
-memo({{ url(config('app.url')) }})
+釣り情報交換SNS({{ url(config('app.url')) }})
